@@ -17,7 +17,7 @@ In Conclusion to the Weather API, when a user select a location from the dropdow
 - https://nominatim.openstreetmap.org
 - http://api.geonames.org
 
-## - For the Youtube API implementation, the following endpoints/APIs are listed:
+## For the Youtube API implementation, the following endpoints/APIs are listed:
 In here, user can search up a video and get the following details: channel-title, song-title, desciptions, thumbnails, and the links.
 
 This is used to update the HTML to display after a search is submitted. 
