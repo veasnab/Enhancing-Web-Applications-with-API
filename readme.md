@@ -23,9 +23,8 @@ In here, user can search up a video and get the following details: channel-title
 This is used to update the HTML to display after a search is submitted. 
 
 The link is use to re-direct to the youtube weppage to watch the video. 
-
 - https://www.googleapis.com/youtube/v3/search
-- 
+
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/veasnab/Enhancing-Web-Applications-with-API.git`
 
