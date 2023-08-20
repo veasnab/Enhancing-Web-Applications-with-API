@@ -16,12 +16,13 @@ In Conclusion to the Weather API, when a user select a location from the dropdow
 - https://nominatim.openstreetmap.org
 - http://api.geonames.org
 
-## For the Youtube API implementation, the following endpoints/APIs are listed:
+## Youtube API implementation, the following endpoints/APIs are listed:
+
 In here, user can search up a video and get the following details: channel-title, song-title, desciptions, thumbnails, and the links.
 This is used to update the HTML to display after a search is submitted. 
 The link is use to re-direct to the youtube weppage to watch the video. 
 - https://www.googleapis.com/youtube/v3/search
 
-## Getting Started
+### Getting Started
 1. Clone the repository: `git clone https://github.com/veasnab/Enhancing-Web-Applications-with-API.git`
 2. Open the project in your favorite code editor
