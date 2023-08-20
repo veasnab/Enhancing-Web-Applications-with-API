@@ -1,8 +1,6 @@
 # Enchancing Web Appications with API
 This project aims to design a webpage that leverages APIs to enhance its functionality and provide a better user experience. The webpage utilizes various APIs to integrate external data and services seamlessly.
 
-## Features
-
 ### Weather API implementation, the following endpoints/APIs are listed:
 - https://api.openweathermap.org
 - https://nominatim.openstreetmap.org
