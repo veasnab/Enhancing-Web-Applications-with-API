@@ -1,7 +1,7 @@
 # Enchancing Web Appications with API
 This project aims to design a webpage that leverages APIs to enhance its functionality and provide a better user experience. The webpage utilizes various APIs to integrate external data and services seamlessly.
 
-### Weather API implementation, the following endpoints/APIs are listed:
+### - Weather API implementation, the following endpoints/APIs are listed:
 - https://api.openweathermap.org
 - https://nominatim.openstreetmap.org
 - http://api.geonames.org
@@ -14,7 +14,7 @@ I use this API to allow me to populate the Country and then populate the State b
 The State is then used to populate the City dropdown menu in the same fashion. 
 In Conclusion to the Weather API, when a user select a location from the dropdown that the endpoint "http://api.geonames.org" populate; The selected location is than push to the "https://nominatim.openstreetmap.org" which convert the location to latitude and longitude. At last, this cooridate are use in the "api.openweathermap.org" end-point to populate the Weather information.
 
-### For the Youtube API implementation, the following endpoints/APIs are listed:
+### - For the Youtube API implementation, the following endpoints/APIs are listed:
 - https://www.googleapis.com/youtube/v3/search
 
 In here, user can search up a video and get the following details: channel-title, song-title, desciptions, thumbnails, and the links.
