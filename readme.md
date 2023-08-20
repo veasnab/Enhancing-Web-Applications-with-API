@@ -28,4 +28,5 @@ The link is use to re-direct to the youtube weppage to watch the video.
 - 
 ## Getting Started
 1. Clone the repository: `git clone https://github.com/veasnab/Enhancing-Web-Applications-with-API.git`
+
 2. Open the project in your favorite code editor
